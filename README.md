@@ -5,7 +5,7 @@
 [![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-View%20App-red?style=for-the-badge)](https://your-live-demo-link.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/dhruba001/NetflixGPT)
 
-![Netflix GPT Banner]
+Netflix GPT Banner
 
 ## 📋 Table of Contents
 
