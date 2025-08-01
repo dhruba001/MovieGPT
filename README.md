@@ -1,5 +1,4 @@
-# 🚀 Netflix GPT
-
+🚀 Netflix GPT
 Netflix GPT is a Netflix-inspired movie recommendation web app powered by GPT and TMDB. I built this app from scratch using React, Vite, Tailwind CSS, Firebase, Redux Toolkit, and the OpenAI GPT-3.5 Turbo API.
 
 🎯 Features
@@ -55,28 +54,28 @@ Edit
 npm run build
 firebase deploy
 🧩 Tech Stack
-Purpose Technology
-UI React + Vite
-Styling Tailwind CSS
-State Management Redux Toolkit
-Data/API TMDB API, OpenAI GPT
-Authentication Firebase Auth
-Deployment Firebase Hosting
-Testing Jest, React Testing Lib
+Purpose	Technology
+UI	React + Vite
+Styling	Tailwind CSS
+State Management	Redux Toolkit
+Data/API	TMDB API, OpenAI GPT
+Authentication	Firebase Auth
+Deployment	Firebase Hosting
+Testing	Jest, React Testing Lib
 
 📂 Project Structure
 bash
 Copy
 Edit
 /src
-/components # UI components (Header, MovieCard, SearchBar, etc.)
-/redux
-movieSlice.js
-gptSlice.js
-userSlice.js
-/hooks # Custom hooks: usePopularMovies, useGPTSearch, etc.
-App.jsx
-index.jsx
+  /components       # UI components (Header, MovieCard, SearchBar, etc.)
+  /redux
+    movieSlice.js
+    gptSlice.js
+    userSlice.js
+  /hooks            # Custom hooks: usePopularMovies, useGPTSearch, etc.
+  App.jsx
+  index.jsx
 public/
 tailwind.config.js
 package.json
@@ -107,3 +106,4 @@ Thanks to the open-source community for amazing tools like React, TMDB, Tailwind
 🏁 License & Contribution
 Feel free to fork, use, or improve this project. If you fix bugs or add cool features (like more languages, better error handling, or new UI ideas), pull requests are welcome.
 Licensed under MIT.
+
