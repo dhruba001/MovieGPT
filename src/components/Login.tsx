@@ -12,21 +12,22 @@ const Login = () => {
         />
       </div>
       <div>
-        <form className="w-3/12 absolute px-5 py-5 bg-[rgba(0,0,0,0.85)] my-36 mx-auto right-0 left-0 text-white rounded-md">
-          <h1 className="font-bold text-2xl py-4">Sign In</h1>
+        <form className="w-6/12 absolute px-5 py-5 bg-[rgba(0,0,0,0.85)] my-36 mx-auto right-0 left-0 text-white rounded-md">
+          <h1 className="font-bold text-2xl py-4 mx-12">Sign In</h1>
           <input
             type="text"
             placeholder="Email Address"
-            className="p-4 my-4 w-full bg-gray-700 rounded-lg"
+            className="p-4 my-4 mx-12 w-9/12 bg-gray-700 rounded-lg"
           />
           <input
             type="password"
             placeholder="Password"
-            className="p-4 my-4 w-full bg-gray-700 rounded-lg"
+            className="p-4 my-4 mx-12 w-9/12 bg-gray-700 rounded-lg"
           />
-          <button className="p-4 my-6 bg-red-700 w-full rounded-lg">
+          <button className="p-4 my-6 mx-12  w-9/12 bg-red-700  rounded-lg">
             Sign In
           </button>
+          <p className="mx-13  w-9/12">New to Netflix? Sign Up now</p>
         </form>
       </div>
     </div>
