@@ -3,7 +3,7 @@
 > A modern movie recommendation web app powered by GPT and TMDB API
 
 [![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-View%20App-red?style=for-the-badge)](https://your-live-demo-link.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/dhruba001/NetflixGPT)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/dhruba001/MovieGPT)
 
 ## 📋 Table of Contents
 
@@ -79,8 +79,8 @@ Before you begin, ensure you have the following installed:
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/dhruba001/NetflixGPT.git
-   cd NetflixGPT
+   git clone https://github.com/dhruba001/MovieGPT.git
+   cd MovieGPT
    ```
 
 2. **Install dependencies**
@@ -229,7 +229,7 @@ Contributions are what make the open source community such an amazing place to l
 
 ### 🐛 Found a Bug?
 
-If you find a bug, please [open an issue](https://github.com/dhruba001/NetflixGPT/issues) with:
+If you find a bug, please [open an issue](https://github.com/dhruba001/MovieGPT/issues) with:
 
 - A clear description of the bug
 - Steps to reproduce
