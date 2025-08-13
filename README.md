@@ -1,6 +1,6 @@
-# 🎬 Netflix GPT
+# 🎬 Movie GPT
 
-> A Netflix-inspired movie recommendation web app powered by GPT and TMDB API
+> A modern movie recommendation web app powered by GPT and TMDB API
 
 [![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-View%20App-red?style=for-the-badge)](https://your-live-demo-link.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/dhruba001/NetflixGPT)
@@ -29,7 +29,7 @@
 - ✅ Dynamic movie sections with smooth scrolling
 - ✅ Background video trailers for immersive experience
 - ✅ Fully responsive design across all devices
-- ✅ Netflix-like UI with Tailwind CSS
+- ✅ Modern UI with Tailwind CSS
 
 ### 🤖 **GPT-Powered Search**
 
@@ -114,7 +114,7 @@ Before you begin, ensure you have the following installed:
 ## 📁 Project Structure
 
 ```
-NetflixGPT/
+MovieGPT/
 ├── 📁 public/
 │   ├── favicon.ico
 │   └── index.html
