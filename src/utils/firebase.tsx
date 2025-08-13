@@ -7,7 +7,7 @@ import { getAnalytics } from "firebase/analytics";
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyBtLawSIamaTuq8z4aHgDsh79LSQqlVDgg",
+  apiKey: process.env.REACT_APP_FIREBASE_API_KEY,
   authDomain: "moviegpt-de581.firebaseapp.com",
   projectId: "moviegpt-de581",
   storageBucket: "moviegpt-de581.firebasestorage.app",
