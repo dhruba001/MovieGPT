@@ -1,6 +1,6 @@
 # 🎬 Movie GPT
 
-> A modern movie recommendation web app powered by GPT and TMDB API
+> A modern movie recommendation web app powered by GPT and TMDB API 
 
 [![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-View%20App-red?style=for-the-badge)](https://your-live-demo-link.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/dhruba001/MovieGPT)
@@ -159,7 +159,7 @@ REACT_APP_FIREBASE_AUTH_DOMAIN=your_project.firebaseapp.com
 REACT_APP_FIREBASE_PROJECT_ID=your_project_id
 ```
 
-### 🔑 Getting API Keys
+### 🔑 Getting API Keys :
 
 | **Service**    | **How to Get**                                                  | **Documentation**                                 |
 | -------------- | --------------------------------------------------------------- | ------------------------------------------------- |
@@ -254,6 +254,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Made with ❤️ by [Dhruba](https://github.com/dhruba001)**
 
-⭐ **Star this repo if you found it helpful!**
+⭐ **Star this repo if you found it helpful!!**
 
 </div>
