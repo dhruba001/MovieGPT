@@ -254,6 +254,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Made with ❤️ by [Dhruba](https://github.com/dhruba001)**
 
-⭐ **Star this repo if you found it helpful!**
+⭐ **Star this repo if you found it helpful!!**
 
 </div>
