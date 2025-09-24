@@ -159,7 +159,7 @@ REACT_APP_FIREBASE_AUTH_DOMAIN=your_project.firebaseapp.com
 REACT_APP_FIREBASE_PROJECT_ID=your_project_id
 ```
 
-### 🔑 Getting API Keys
+### 🔑 Getting API Keys :
 
 | **Service**    | **How to Get**                                                  | **Documentation**                                 |
 | -------------- | --------------------------------------------------------------- | ------------------------------------------------- |
